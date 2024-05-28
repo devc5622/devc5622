@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning Front-End Development, Back-End Architecture, UI/UX<br>💬 Ask me about amazing code<br>⚡ Fun fact : I live on Coffee and Code </>
+Hello! I'm Dev, a versatile developer who loves turning complex problems into elegant solutions. With expertise spanning from low-level C and C++ programming to dynamic JavaScript and robust TypeScript, I create seamless, user-friendly web experiences 🌐. I thrive on exploring new technologies, whether it's crafting sleek interfaces with TailwindCSS 🎨 or building scalable backends with Node.js 🚀. Passionate about continuous learning and innovation, I'm always excited to tackle new challenges and collaborate on cutting-edge projects. Let’s code something amazing together! Dive into my GitHub to see what I’ve been working on 🛠️✨!
 
 
 ## 🌐 Socials:
